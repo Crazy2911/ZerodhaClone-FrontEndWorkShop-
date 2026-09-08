@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+}
+button{
+    color:white;
+    background-color: rgb(56, 126, 209);
+    padding :10px 30px;
+   border-radius: 4px;
+}
+button:hover{
+    color:white;
+    background-color: black;
+    padding :10px 30px;
+   border-radius: 4px;
+
+}
+iframe{
+    border-radius: 50px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#logoimg{
+    height:17px;
+    width: 129.41px;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
+#tutorials{
+    display: flex;
+    gap:30px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
